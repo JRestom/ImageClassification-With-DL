@@ -1,2 +1,2 @@
 # ImageClassification-With-DL
-Using different techniques to create Deep Learning classifier 
+Using different techniques to create a Deep Learning classifier 
